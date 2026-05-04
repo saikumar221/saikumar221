@@ -1,6 +1,6 @@
 ### नमस्ते (Namaste!)🙏🏻, I'm Sai 👋
 ---
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=%EADEDE&size=35&center=true&vCenter=true&lines=++++नमस्ते++,I'm++Sai;++++A++Software++Developer++;++Web++App++Builder)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&color=%EADEDE&size=35&center=true&vCenter=true&lines=++++नमस्ते++,I'm++Sai;++++A++Software++Developer++;++AI++Builder)
 
 **Software Engineer · AI Builder · Full-stack developer**
 
@@ -13,7 +13,7 @@ I'm a **founding-level software engineer** with 4+ years building systems that g
 
 Completed my **MS in Computer Science at Northeastern University** (4.0 GPA), where I TA database and large-scale systems courses.
 
-- 🏢 **Previously:** Software Engineer Co-op @ Amazon (Seattle) — built plugin architectures and AWS Step Functions workflows for a B2B accounting automation platform
+- 🏢 **Previously:** Software Engineer Co-op @ Amazon (Seattle, WA)
 - 🚀 **Founding Engineer @** Fountain9 (YC W21) — helped take the product from 0 to acquisition and was promoted while at it
 - 🥈 **2nd Place** — Advanced AI Software Engineering Track, yconic New England Inter-Collegiate AI Hackathon
 - 🎓 **Gold Medalist** — Best All-Rounder Student, GITAM University
