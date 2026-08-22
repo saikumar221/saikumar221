@@ -13,7 +13,7 @@ I'm a **founding-level software engineer** with 4+ years building systems that g
 
 Completed my **MS in Computer Science at Northeastern University** (4.0 GPA), where I TA database and large-scale systems courses.
 
-- 🏢 **Previously:** Software Engineer Co-op @ Amazon (Seattle, WA)
+- 🏢 **Current** Software Engineer @ Amazon Web Services - building security intelligence layer for AWS builders
 - 🚀 **Founding Engineer @** Fountain9 (YC W21) — helped take the product from 0 to acquisition and was promoted while at it
 - 🥈 **2nd Place** — Advanced AI Software Engineering Track, yconic New England Inter-Collegiate AI Hackathon
 - 🎓 **Gold Medalist** — Best All-Rounder Student, GITAM University
